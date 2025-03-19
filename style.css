@@ -533,4 +533,39 @@ html {
     width: 40rem;
     object-fit: cover;
   }
-  
+  lement.style {
+}
+.hero {
+    background-image: url(../img/principal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 25rem;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+hoja de estilo del agente de usuario
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
